@@ -1,0 +1,5 @@
+bot
+*.log
+*.pid
+/workspaces/TG-bot/bot
+bot.log
